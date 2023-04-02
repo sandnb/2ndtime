@@ -1,1 +1,2 @@
-I am a FrontEnd Developer
+I am a FrontEnd Dev
+I am also a good UI/UX designer
